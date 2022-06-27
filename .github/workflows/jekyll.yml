@@ -41,7 +41,7 @@ jobs:
         ls -q | grep -v _site |  xargs rm -rf
         mv _site/* .
         rm -rf _site
-        echo "mkalia.com" > CNAME
+        echo "aidonnou.github.io" > CNAME
         [[ -n "$(git status --porcelain)" ]] || exit 0
         git add .
         git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
