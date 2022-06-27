@@ -34,8 +34,8 @@ jobs:
         git add .
         git commit -m "Website generated"
         git checkout dev
-        git merge -s ours origin/master
-        git checkout master
+        git merge -s ours origin/main
+        git checkout main
         git pull
         git merge -X theirs dev
         ls -q | grep -v _site |  xargs rm -rf
