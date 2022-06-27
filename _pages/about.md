@@ -4,4 +4,4 @@ title: about
 logo: "images/author.jpg"
 permalink: "/about/"
 ---
-Thank you Manuel
+Thank you Manuel, really thanks
