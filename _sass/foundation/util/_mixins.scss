@@ -15,7 +15,6 @@
   $triangle-size,
   $triangle-color,
   $triangle-direction
-
 ) {
   content: '';
   display: block;
@@ -53,7 +52,6 @@
 /// @param {Number} $height [16px] - Height of the icon.
 /// @param {Number} $weight [2px] - Height of individual bars in the icon.
 /// @param {Number} $bars [3] - Number of bars in the icon.
-/// @param {Number} $size [null]
 @mixin hamburger(
   $color: $black,
   $color-hover: $dark-gray,
@@ -220,6 +218,7 @@
 /// @param {Boolean} $small [true] - If `false`, the mixin will skip the `small` breakpoint. Use this with components that don't prefix classes with `small-`, only `medium-` and up.
 @mixin -zf-each-breakpoint($small: true) {
   $map: $breakpoint-classes;
+
   @if not $small {
     $map: map-remove($map, $-zf-zero-breakpoint);
   }

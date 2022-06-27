@@ -106,7 +106,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  arm64-darwin-21
+  arm64-darwin-20
 
 DEPENDENCIES
   image_optim
@@ -118,7 +118,7 @@ DEPENDENCIES
   s3_website
   sass
   starving-artist-jekyll-theme
-  webrick
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.16
