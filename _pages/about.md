@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-logo: "images/author.jpg"
+logo: ""
 permalink: "/about/"
 ---
 Thank you Manuel, really thanks
