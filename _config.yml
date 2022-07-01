@@ -8,12 +8,12 @@ description:
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "aidonnou.github.io"
+  url: "acrfigulus.com"
 
 header: 'https://lh5.googleusercontent.com/DyfXsLnvkrS0oVYjP7NBdHdiCGdDLcnWD6ZsoPbRNm7nKZcS2KhSgLpxHwfZL3dRDcs=w2400'
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+# contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
 
 
 # Exclude our ruby stuff
