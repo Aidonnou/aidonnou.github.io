@@ -10,7 +10,7 @@ description: Witty description here.
 github:
   url: "aidonnou.github.io"
 
-header: images/logo.png
+header: 'https://lh5.googleusercontent.com/DyfXsLnvkrS0oVYjP7NBdHdiCGdDLcnWD6ZsoPbRNm7nKZcS2KhSgLpxHwfZL3dRDcs=w2400'
 
 # Formspree contact Form
 contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
@@ -55,9 +55,9 @@ facebook_user:
 facebook_app_id:                                #enter your App ID
 facebook_locale: en_US
 facebook_page:                                  #the URL of your Facebook Page
-facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+facebook_image:                     #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
 twitter_user: 
-twitter_card: true
-twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_card: false
+twitter_image:                    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
