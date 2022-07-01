@@ -9,8 +9,8 @@ arts:
   description: ""
 
 - image: "https://lh4.googleusercontent.com/pv0dwr--zMvvHxcaJWddHSzq4tCMiRM6iTIbLHvsfrkerYmvMSwE8S0KowVm_771f2U=w2400"
-    order: "2"
-    title: "Chawan"
-    artist: "Albert Cid Royo"
-    description: "Beatiful green Chawan tea cup "
+  order: "2"
+  title: "Chawan"
+  artist: "Albert Cid Royo"
+  description: "description"
 ---
