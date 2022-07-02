@@ -4,13 +4,19 @@ arts:
 # Column 1
 - image: "https://lh6.googleusercontent.com/jkVop_8lDxLRRnrpdciKbemXTLHXgUThhKnJrMGi71Udqo_BGqsmDgYMGgIQbbD_78g=w2400"
   order: "1"
-  title: "Black pot"
+  title: "Black plant pot"
   artist: "Albert Cid Royo"
-  description: ""
+  description: "Black clay"
 
 - image: "https://lh4.googleusercontent.com/pv0dwr--zMvvHxcaJWddHSzq4tCMiRM6iTIbLHvsfrkerYmvMSwE8S0KowVm_771f2U=w2400"
   order: "2"
   title: "Chawan"
+  artist: "Albert Cid Royo"
+  description: "description"
+
+- image: "https://lh6.googleusercontent.com/1EnHJYHI5NE5HuVF3b8v2Lb8jIb3oSTlYfya3YuEUgLeUXuyiWqQUbIq8K1A6MgU8J8=w2400"
+  order: "3"
+  title: "Cup"
   artist: "Albert Cid Royo"
   description: "description"
 ---
