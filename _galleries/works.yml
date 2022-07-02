@@ -6,17 +6,24 @@ arts:
   order: "1"
   title: "Black plant pot"
   artist: "Albert Cid Royo"
-  description: "Black clay"
+  description: "Black earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
+  %n Price: 50 euros"
 
 - image: "https://lh4.googleusercontent.com/pv0dwr--zMvvHxcaJWddHSzq4tCMiRM6iTIbLHvsfrkerYmvMSwE8S0KowVm_771f2U=w2400"
   order: "2"
   title: "Chawan"
   artist: "Albert Cid Royo"
-  description: "description"
+  description: "Stoneware with green glaze"
 
 - image: "https://lh6.googleusercontent.com/1EnHJYHI5NE5HuVF3b8v2Lb8jIb3oSTlYfya3YuEUgLeUXuyiWqQUbIq8K1A6MgU8J8=w2400"
   order: "3"
   title: "Cup"
   artist: "Albert Cid Royo"
-  description: "description"
+  description: "Red earthenware (terracotta) with transparent and ochre glazes"
+
+- image: "https://lh6.googleusercontent.com/1EnHJYHI5NE5HuVF3b8v2Lb8jIb3oSTlYfya3YuEUgLeUXuyiWqQUbIq8K1A6MgU8J8=w2400"
+  order: "4"
+  title: "Big plant plot"
+  artist: "Albert Cid Royo"
+  description: "Black clay with ochre glaze"
 ---
