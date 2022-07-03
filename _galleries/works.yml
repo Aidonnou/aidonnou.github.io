@@ -35,7 +35,15 @@ arts:
 
 - image: "https://lh5.googleusercontent.com/2zyCSZEdf87w8vw_MjJti2e1zJgdq6cMUaoSCrq_wMtjXuye0xtOG_bpss5304wkyz0=w2400"
   order: "7"
-  title: "Boid"
+  title: "Void"
   artist: "Albert Cid Royo"
   description: "Black earthenware pot with red earthenware"
+
+- image: "https://lh3.googleusercontent.com/n_J8JTw54AipK1fY96OFisij28xqiHxdl2edBA7hkPpot0mBC21gXkIi7AlrgjojA1E=w2400"
+  order: "8"
+  title: "Black plant pot"
+  artist: "Albert Cid Royo"
+  description: "Black earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
+  %n Price: 50 euros"
+
 ---
