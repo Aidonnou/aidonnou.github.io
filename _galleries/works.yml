@@ -26,4 +26,16 @@ arts:
   title: "Big plant plot"
   artist: "Albert Cid Royo"
   description: "Black clay with ochre glaze"
+
+- image: "https://lh4.googleusercontent.com/wjNoZRiS-VXR-Xtex7tVo4-lpO2oJeIoygnN0eV_nNdeBQGcAbiymvQJGMFGSiXoR0A=w2400"
+  order: "5"
+  title: "Chawan"
+  artist: "Albert Cid Royo"
+  description: "Stoneware chawan cup with green glaze"
+
+- image: "https://lh5.googleusercontent.com/2zyCSZEdf87w8vw_MjJti2e1zJgdq6cMUaoSCrq_wMtjXuye0xtOG_bpss5304wkyz0=w2400"
+  order: "7"
+  title: "Boid"
+  artist: "Albert Cid Royo"
+  description: "Black earthenware pot with red earthenware"
 ---
