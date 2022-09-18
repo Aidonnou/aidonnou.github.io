@@ -178,6 +178,10 @@ a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close {
     padding-left: .2em;
 }
 
+#image.center{
+        height: 180px;
+        max-width: auto;
+    }
 //////////////////////////////
 // Styling for menu / navbar
 /////////////////////////////
@@ -346,5 +350,8 @@ a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close {
         width: 95%;
         max-height: 100%;
     }
-
+    #image.center{
+        height: 180px;
+        max-width: auto;
+    }
 } // End of Tablet Styles
