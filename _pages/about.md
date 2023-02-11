@@ -5,13 +5,14 @@ logo: "https://lh6.googleusercontent.com/Zc6SO-1IK8fGUDRYlkbUzXgsILmtSgi0GFCFx5H
 permalink: "/about/"
 ---
 
-Born in 1991 in Tortosa, Catalonia. Currently based in The Netherlands.
+Welcome! 
 
-With the need to connect with his childhood and homeland, he started pottery and ceramics as a hobby, which became a passion.
+This is Albert, I am from Tortosa, Catalonia. Currently I live in The Netherlands. 
 
-After practising ceramics in different studios in Denmark and The Netherlands, he assisted in the workshop at the Almond Grove of the renowned [Hector's Mavridis](https://www.hectormavridis.com/) during the summer of 2021. 
+Few years ago I had need to connect with his childhood and homeland, so I started pottery and ceramics as a hobby.
 
-Nowadays, Albert is a potter based at [Kadewerk](https://www.facebook.com/kadewerk/), where he works with a diversity of different types of clay and techniques, practising and experimenting every day. 
+I have been practising ceramics in different studios in Denmark and in The Netherlands, I also assisted to one of the week the workshop at the Almond Grove of the renowned [Hector's Mavridis](https://www.hectormavridis.com/) during the summer of 2021. 
 
-Albert presents his work as "humble, unpretentious and minimalist". He is showing the raw beauty of the uncovered baked clay keeping the balance between glaze and clay, giving both of them the same importance.
+Nowadays, Albert I am based at [Kadewerk](https://www.facebook.com/kadewerk/), where I work with a diversity of different types of clay and techniques, practising and experimenting every day. 
 
+Do not hesitate on contacting me if you are interested in any workpiece or in having personalized classes.
