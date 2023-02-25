@@ -52,13 +52,14 @@ arts:
   description: "Black earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
   %n Price: 50 euros"
 
+# Column 2
+
   image: "https://lh4.googleusercontent.com/RnivsAXybVtgCRtU47-KuIdUR3GhcXFJJ5h7DQ-h0Seldw8dC7bNJcSLcByzf1Fw-wM=w2400"
-  order: "9"
+  order: "3"
   title: "Coffee Cup"
   artist: "Albert Cid Royo"
   description: ""
 
-# Column 2
   image: "https://lh5.googleusercontent.com/-iXN5Q-g9OY5wTDUuOUYA7SyrTdIdEiH0VXi-xqLVEaci1t-xGMOz6I4GsJwkhrgk-Q=w2400"
   order: "1"
   title: "Bowl"
