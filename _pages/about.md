@@ -5,14 +5,16 @@ logo: "https://lh6.googleusercontent.com/Zc6SO-1IK8fGUDRYlkbUzXgsILmtSgi0GFCFx5H
 permalink: "/about/"
 ---
 
-Welcome!!! 
 
-This is Albert, I am from Tortosa, Catalonia. Currently I live in The Netherlands. 
+Welcome!!!
 
-Few years ago I had need to connect with his childhood and homeland, so I started pottery and ceramics as a hobby.
+This is Albert, I am from Tortosa, Catalonia. Currently, I live in The Netherlands.
 
-I have been practising ceramics in different studios in Denmark and in The Netherlands, I also assisted to one of the week the workshop at the Almond Grove of the renowned [Hector's Mavridis](https://www.hectormavridis.com/) during the summer of 2021. 
+A few years ago, I needed to connect with my childhood and homeland, so I started pottery and ceramics. I have been practicing ceramics in different studios in Denmark and The Netherlands; I also assisted in one of the weeks of the workshop at the Almond Grove of the renowned [Hector's Mavridis](https://www.hectormavridis.com/) during the summer of 2021.
 
-Nowadays, Albert I am based at [Kadewerk](https://www.facebook.com/kadewerk/), where I work with a diversity of different types of clay and techniques, practising and experimenting every day. 
+I am based at [Kadewerk](https://www.facebook.com/kadewerk/), working with diverse clays and techniques, aiming to combine my homeland’s and Japanese pottery styles. 
 
-Do not hesitate on contacting me if you are interested in any workpiece or in having personalized classes.
+Do not hesitate to contact me if you are interested in any workpiece or in having personalized classes.
+
+Instagram: https://www.instagram.com/acr_figulus/
+
