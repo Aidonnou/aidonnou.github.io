@@ -30,6 +30,7 @@ theme: starving-artist-jekyll-theme
 # Plugins
 gems:
   - jekyll-feed
+  - starving-artist-jekyll-theme
 
 feed:
   path: atom.xml
