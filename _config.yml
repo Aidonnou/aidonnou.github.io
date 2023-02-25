@@ -25,12 +25,11 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-theme: starving-artist-jekyll-theme
+theme: minima
   
 # Plugins
 gems:
   - jekyll-feed
-  - starving-artist-jekyll-theme
 
 feed:
   path: atom.xml
