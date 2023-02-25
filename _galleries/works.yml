@@ -33,6 +33,12 @@ arts:
   artist: "Albert Cid Royo"
   description: "Stoneware chawan cup with green glaze"
 
+  image: "https://lh3.googleusercontent.com/XjGV2VQANl0A-TmF7WC6BoVT_fpQ8kH_wRnTKDY6_d8GGnCE9gVWzyg-rLHqwqmQj2c=w2400"
+  order: "6"
+  title: "Cracked pot"
+  artist: "Albert Cid Royo"
+  description: ""
+
 - image: "https://lh5.googleusercontent.com/2zyCSZEdf87w8vw_MjJti2e1zJgdq6cMUaoSCrq_wMtjXuye0xtOG_bpss5304wkyz0=w2400"
   order: "7"
   title: "Void"
@@ -46,16 +52,23 @@ arts:
   description: "Black earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
   %n Price: 50 euros"
 
-  image: "https://lh3.googleusercontent.com/XjGV2VQANl0A-TmF7WC6BoVT_fpQ8kH_wRnTKDY6_d8GGnCE9gVWzyg-rLHqwqmQj2c=w2400"
-  order: "6"
-  title: "Cracked pot"
-  artist: "Albert Cid Royo"
-  description: ""
-
   image: "https://lh4.googleusercontent.com/RnivsAXybVtgCRtU47-KuIdUR3GhcXFJJ5h7DQ-h0Seldw8dC7bNJcSLcByzf1Fw-wM=w2400"
   order: "9"
   title: "Coffee Cup"
   artist: "Albert Cid Royo"
   description: ""
+
+# Column 2
+  image: "https://lh5.googleusercontent.com/-iXN5Q-g9OY5wTDUuOUYA7SyrTdIdEiH0VXi-xqLVEaci1t-xGMOz6I4GsJwkhrgk-Q=w2400"
+  order: "1"
+  title: "Bowl"
+  artist: "Albert Cid Royo"
+  description: ""
+
+  image: "https://lh3.googleusercontent.com/d-vStXE3xYK4kKSjMR6bUBOQq26CBJ_2x3U34fSdnJ7zh0vG0VB4vrgG-TIcpAS5b98=w2400"
+  order: "2"
+  title: "Coffee mugs"
+  artist: "Albert Cid Royo"
+  description: "White clay on top of black clay with white speckled glaze"
 
 ---
