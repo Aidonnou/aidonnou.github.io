@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Private Pottery Course
+title: Private Pottery Classes
 logo: "https://lh6.googleusercontent.com/Zc6SO-1IK8fGUDRYlkbUzXgsILmtSgi0GFCFx5HreCT3nOK3ZBihy6tv6UXeDHF8z2Y=w2400"
-permalink: "/private-course/"
+permalink: "/private-classes/"
 ---
 
 
