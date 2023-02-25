@@ -52,5 +52,10 @@ arts:
   artist: "Albert Cid Royo"
   description: ""
 
+  image: "https://lh4.googleusercontent.com/RnivsAXybVtgCRtU47-KuIdUR3GhcXFJJ5h7DQ-h0Seldw8dC7bNJcSLcByzf1Fw-wM=w2400"
+  order: "9"
+  title: "Coffee Cup"
+  artist: "Albert Cid Royo"
+  description: ""
 
 ---
