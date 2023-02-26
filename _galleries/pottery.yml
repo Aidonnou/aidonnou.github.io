@@ -78,5 +78,47 @@ arts:
   artist: "Albert Cid Royo"
   description: "Black clay and transparent glaze"
 
+- image: "https://lh3.googleusercontent.com/dqpIA1DWu15mJT46xqMHkBue1qaadWre_IF25K6_y8_HRdmdfMIFfSmdqBA7AZ8H2p8=w2400"
+  order: "13"
+  title: "Small jar"
+  artist: "Albert Cid Royo"
+  description: "Black clay and green glaze"
+
+- image: "https://lh3.googleusercontent.com/dqpIA1DWu15mJT46xqMHkBue1qaadWre_IF25K6_y8_HRdmdfMIFfSmdqBA7AZ8H2p8=w2400"
+  order: "14"
+  title: "Small jar"
+  artist: "Albert Cid Royo"
+  description: ""
+
+- image: "https://lh4.googleusercontent.com/RcqgOLwo3w4cwj33OqeyH65Xs283OPyJM4JreWaYKfwfdryrt15s9cZB2iKPJvfNBrU=w2400"
+  order: "15"
+  title: "Tea pot"
+  artist: "Albert Cid Royo"
+  description: ""
+
+- image: "https://lh5.googleusercontent.com/ipQXHtamxOIUWL8eMYlGVCSh2BQLeg8qZ5FI6aY0tarrKZuSQl8aBoCrNp2cj1Ane-s=w2400"
+  order: "16"
+  title: "Milk jug"
+  artist: "Albert Cid Royo"
+  description: ""
+
+- image: "https://lh5.googleusercontent.com/tocwpS0169GC5eWnayii3M3Nx6Cmg21a1V1h_AiQ-98_VYhcKB2j9BDUJxWpnpnV688=w2400"
+  order: "17"
+  title: "Cups"
+  artist: "Albert Cid Royo"
+  description: ""
+
+- image: "https://lh4.googleusercontent.com/LJVXKgI7Y0wUkEs3K6Qfg4BVurkfv6CaEVLU6aA_Y_p5yg69vK3JVcmuhRRTjA7Hddg=w2400"
+  order: "18"
+  title: "Cups"
+  artist: "Albert Cid Royo"
+  description: ""
 
 ---
+
+
+- image: ""
+  order: ""
+  title: ""
+  artist: "Albert Cid Royo"
+  description: ""
