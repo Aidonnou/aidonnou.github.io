@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-logo: "https://lh6.googleusercontent.com/Zc6SO-1IK8fGUDRYlkbUzXgsILmtSgi0GFCFx5HreCT3nOK3ZBihy6tv6UXeDHF8z2Y=w2400"
+logo: "https://lh6.googleusercontent.com/BH49xuAosWCTpYL0Dyk9ytCSmdf9NBtHgtVIV2P3eDKdJIi6Cfq0WmopPbtrz_9fLSA=w2400"
 permalink: "/about/"
 ---
 
