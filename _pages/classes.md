@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Private Pottery Classes
-logo: "https://lh6.googleusercontent.com/Zc6SO-1IK8fGUDRYlkbUzXgsILmtSgi0GFCFx5HreCT3nOK3ZBihy6tv6UXeDHF8z2Y=w2400"
+logo: "https://lh4.googleusercontent.com/f-f_4usgF468iZMsplLitwuxB7dFd1wvQqfxx36ogdmSiFgNT7zp_zmGczT5nkNakQ8=w2400"
 permalink: "/private-classes/"
 ---
 
@@ -16,7 +16,7 @@ In these lessons, you’ll learn the basics of wheel throwing on the potter’s 
 
 •	The classes will be taught in English.
 
-For more information, I am available at Kadewerk on Fridays from 12.00 to 17.00 or via email.
+For more information, I am available at _Kadewerk_ on Fridays from 12.00 to 17.00 or via email.
 
 
 
