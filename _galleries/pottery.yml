@@ -6,112 +6,106 @@ arts:
   order: "1"
   title: "Black plant pot"
   artist: "Albert Cid Royo"
-  description: "Ref num: #1%nDimensions: 20cm x 17cm HxW%nBlack earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
+  description: "Ref num: #1\nDimensions: 20cm x 17cm HxW\nBlack earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
   %n Price: 50 euros"
 
 - image: "https://lh4.googleusercontent.com/pv0dwr--zMvvHxcaJWddHSzq4tCMiRM6iTIbLHvsfrkerYmvMSwE8S0KowVm_771f2U=w2400"
   order: "2"
   title: "Chawan"
   artist: "Albert Cid Royo"
-  description: "Ref num: #2%nDimensions: 6cm x 11cm HxW%nStoneware with green glaze"
+  description: "Ref num: #2\nDimensions: 6cm x 11cm HxW\nStoneware with green glaze"
 
 - image: "https://lh6.googleusercontent.com/1EnHJYHI5NE5HuVF3b8v2Lb8jIb3oSTlYfya3YuEUgLeUXuyiWqQUbIq8K1A6MgU8J8=w2400"
   order: "3"
   title: "Cup"
   artist: "Albert Cid Royo"
-  description: "Ref num: #3%nDimensions: 8cm x 10cm HxW%nRed earthenware (terracotta) with transparent and ochre glazes"
+  description: "Ref num: #3\nDimensions: 8cm x 10cm HxW\nRed earthenware (terracotta) with transparent and ochre glazes"
 
 # Column 2
 - image: "https://lh3.googleusercontent.com/LPBm1GtAgv8Qxpe6fVaTRqA6AsQq4Kfu097oRDCVSDcy3RCKJveWYEUXO958iWXJ1ro=w2400"
   order: "4"
   title: "Big plant plot"
   artist: "Albert Cid Royo"
-  description: "Ref num: #4%nDimensions: 13cm x 22cm HxW%nBlack clay with ochre glaze"
+  description: "Ref num: #4\nDimensions: 13cm x 22cm HxW\nBlack clay with ochre glaze"
 
 - image: "https://lh4.googleusercontent.com/wjNoZRiS-VXR-Xtex7tVo4-lpO2oJeIoygnN0eV_nNdeBQGcAbiymvQJGMFGSiXoR0A=w2400"
   order: "5"
   title: "Chawan"
   artist: "Albert Cid Royo"
-  description: "Ref num: #5%nDimensions: 6cm x 11cm HxW%nStoneware chawan cup with green glaze"
+  description: "Ref num: #5\nDimensions: 6cm x 11cm HxW\nStoneware chawan cup with green glaze"
 
 - image: "https://lh3.googleusercontent.com/XjGV2VQANl0A-TmF7WC6BoVT_fpQ8kH_wRnTKDY6_d8GGnCE9gVWzyg-rLHqwqmQj2c=w2400"
   order: "6"
   title: "Cracked lamp"
   artist: "Albert Cid Royo"
-  description: "Ref num: #6%nDimensions: 23cm x 23cm HxW%n"
+  description: "Ref num: #6\nDimensions: 23cm x 23cm HxW\n"
 # Column 3
 - image: "https://lh5.googleusercontent.com/2zyCSZEdf87w8vw_MjJti2e1zJgdq6cMUaoSCrq_wMtjXuye0xtOG_bpss5304wkyz0=w2400"
   order: "7"
   title: "Void"
   artist: "Albert Cid Royo"
-  description: "SOLD%nBlack earthenware pot with red earthenware"
+  description: "SOLD\nBlack earthenware pot with red earthenware"
 
 - image: "https://lh3.googleusercontent.com/n_J8JTw54AipK1fY96OFisij28xqiHxdl2edBA7hkPpot0mBC21gXkIi7AlrgjojA1E=w2400"
   order: "8"
   title: "Black plant pot"
   artist: "Albert Cid Royo"
-  description: "SOLD%nBlack earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
+  description: "SOLD\nBlack earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
   %n Price: 50 euros"
 
 - image: "https://lh4.googleusercontent.com/RnivsAXybVtgCRtU47-KuIdUR3GhcXFJJ5h7DQ-h0Seldw8dC7bNJcSLcByzf1Fw-wM=w2400"
   order: "9"
   title: "Coffee Cup"
   artist: "Albert Cid Royo"
-  description: "Ref num: #9%nDimensions: 8.5cm x 9.5cm HxW%n"
+  description: "Ref num: #9\nDimensions: 8.5cm x 9.5cm HxW\n"
 
 # Column 4
 - image: "https://lh5.googleusercontent.com/-iXN5Q-g9OY5wTDUuOUYA7SyrTdIdEiH0VXi-xqLVEaci1t-xGMOz6I4GsJwkhrgk-Q=w2400"
   order: "10"
   title: "Bowl"
   artist: "Albert Cid Royo"
-  description: "Ref num: #10%nDimensions: 9cm x 15cm HxW%n"
+  description: "Ref num: #10\nDimensions: 9 cm x 15cm HxW\n"
 
 - image: "https://lh3.googleusercontent.com/d-vStXE3xYK4kKSjMR6bUBOQq26CBJ_2x3U34fSdnJ7zh0vG0VB4vrgG-TIcpAS5b98=w2400"
   order: "11"
   title: "Coffee mugs"
   artist: "Albert Cid Royo"
-  description: "Ref num: #11%nWhite clay on top of black clay with white speckled glaze"
+  description: "Ref num: #11\nDimensions: Left 8 cm x 9cm HxW Right 7.5 cm x 9.5cm HxW\nWhite clay on top of black clay with white speckled glaze"
 
 - image: "https://lh4.googleusercontent.com/LUOjb_yfnDf3-MoQ_-MJbKthwXjEtQkPs6KtnI4a17r1KxrDw4UHXI_bNU-oGKJ5aX8=w2400"
   order: "12"
   title: "Coffee mug"
   artist: "Albert Cid Royo"
-  description: "Ref num: #12%nBlack clay and transparent glaze"
+  description: "Ref num: #12\nDimensions: 8 cm x 9cm HxW \nBlack clay and transparent glaze"
 
 - image: "https://lh3.googleusercontent.com/dqpIA1DWu15mJT46xqMHkBue1qaadWre_IF25K6_y8_HRdmdfMIFfSmdqBA7AZ8H2p8=w2400"
   order: "13"
   title: "Small jar"
   artist: "Albert Cid Royo"
-  description: "Ref num: #13%nBlack clay and green glaze"
-
-- image: "https://lh3.googleusercontent.com/dqpIA1DWu15mJT46xqMHkBue1qaadWre_IF25K6_y8_HRdmdfMIFfSmdqBA7AZ8H2p8=w2400"
-  order: "14"
-  title: "Small jar"
-  artist: "Albert Cid Royo"
-  description: "Ref num: #14%n"
+  description: "Ref num: #13\nDimensions: 15 cm x 16cm HxW \nBlack clay and green glaze"
 
 - image: "https://lh4.googleusercontent.com/RcqgOLwo3w4cwj33OqeyH65Xs283OPyJM4JreWaYKfwfdryrt15s9cZB2iKPJvfNBrU=w2400"
-  order: "15"
+  order: "14"
   title: "Tea pot"
   artist: "Albert Cid Royo"
-  description: "Ref num: #15\n"
+  description: "Ref num: #15"
 
 - image: "https://lh5.googleusercontent.com/ipQXHtamxOIUWL8eMYlGVCSh2BQLeg8qZ5FI6aY0tarrKZuSQl8aBoCrNp2cj1Ane-s=w2400"
-  order: "16"
+  order: "15"
   title: "Milk jug"
   artist: "Albert Cid Royo"
-  description: "Ref num: #16\n"
+  description: "Ref num: #16\nDimensions: 12 cm x 10cm HxW \n"
 
 - image: "https://lh5.googleusercontent.com/tocwpS0169GC5eWnayii3M3Nx6Cmg21a1V1h_AiQ-98_VYhcKB2j9BDUJxWpnpnV688=w2400"
+  order: "16"
+  title: "Cups"
+  artist: "Albert Cid Royo"
+  description: "Ref num: #17\nDimensions: Left 8 cm x 9cm HxW Right 7.5 cm x 9.5cm HxW\n"
+
+- image: "https://lh4.googleusercontent.com/LJVXKgI7Y0wUkEs3K6Qfg4BVurkfv6CaEVLU6aA_Y_p5yg69vK3JVcmuhRRTjA7Hddg=w2400"
   order: "17"
   title: "Cups"
   artist: "Albert Cid Royo"
-  description: "Ref num: #17\n"
-
-- image: "https://lh4.googleusercontent.com/LJVXKgI7Y0wUkEs3K6Qfg4BVurkfv6CaEVLU6aA_Y_p5yg69vK3JVcmuhRRTjA7Hddg=w2400"
-  order: "18"
-  title: "Cups"
-  artist: "Albert Cid Royo"
-  description: "Ref num: #18\n"
+  description: "Ref num: #18\nDimensions: Left 8 cm x 9cm HxW Right 7.5 cm x 9.5cm HxW\n"
 
 ---
