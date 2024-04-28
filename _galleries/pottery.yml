@@ -6,8 +6,7 @@ arts:
   order: "1"
   title: "Black plant pot"
   artist: "Albert Cid Royo"
-  description: "Ref num: #1\nDimensions: 20cm x 17cm HxW\nBlack earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
-  %n Price: 50 euros"
+  description: "Ref num: #1\nDimensions: 20cm x 17cm HxW\nBlack earthenware clay. With a drainage hole."
 
 - image: "https://lh3.googleusercontent.com/LPBm1GtAgv8Qxpe6fVaTRqA6AsQq4Kfu097oRDCVSDcy3RCKJveWYEUXO958iWXJ1ro=w2400"
   order: "4"
@@ -39,9 +38,34 @@ arts:
   artist: "Albert Cid Royo"
   description: "Ref num: #16\nDimensions: 12 cm x 10cm HxW \n"
 
-- image: "https://drive.google.com/uc?export=view&id=1rVsQ4I_3OuSNNZL0442hLwWrQ5TfCxrM"
+- image: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYI1ys87Uo73dwS2OCZyraavkTNqJ_mTXfbFWbwLzvx7dZtRozg3Fa1Iwy31yBGbpDXp9CYvsUskD9CJksbhoKh6uaNgEzyVMA=s1600-rw-v1"
   order: "18"
   title: "Dry flowers pots"
   artist: "Albert Cid Royo"
-  description: "Ref num: #18. For more information contact me.  "
+  description: "Ref num: #18. For more information contact me."
+
+- image: "https://lh3.googleusercontent.com/drive-viewer/AKGpihYrMBwSA3fyIwuOlHNK_ieByV3ArqXbWiu4GTEeRUKnqBw_bkwbl1uzBC_IPRfOCZAmk0no0Ib98cIKrKbJT6KvFtApd_KJusA=s1600-rw-v1"
+  order: "19"
+  title: "Tea pot"
+  artist: "Albert Cid Royo"
+  description: "Ref num: #19. For more information contact me."
+
+- image: "https://lh3.googleusercontent.com/drive-viewer/AKGpihbfCoaQ3J26PPs6jBOv5-WHhyNhIqcepNvJRyu4lVkU7jotSqHimL7RjPh4_i9HNv9Wy9H208xCYhD_xGVi50GohO42INpmnw=s1600-rw-v1"
+  order: "20"
+  title: "Tea pot"
+  artist: "Albert Cid Royo"
+  description: "Ref num: #20. For more information contact me."
+
+- image: "https://lh3.googleusercontent.com/drive-viewer/AKGpihbYWfKPQVdCDE0eXf8pHN-LVw2IlEOYY671cIwUJTT_TFL_9VbBEhuBX8kZE7hpKR5olmLnSnVmUBChTcsoBIcmf8rDmg9LouU=s1600-rw-v1"
+  order: "21"
+  title: "Tea pot"
+  artist: "Albert Cid Royo"
+  description: "Ref num: #21. For more information contact me."
+
+- image: "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ2ABKb_4JLY-NkgND68UFGwz_uzDklEKratE--Qo1mhAirYNNhOfjXuiawydICogdMAxI7mSu3y35brDhtJmqYTfmBbD-7POo=s1600-rw-v1"
+  order: "12"
+  title: "Dry flowers pots"
+  artist: "Albert Cid Royo"
+  description: "Ref num: #12. For more information contact me."
+
 ---

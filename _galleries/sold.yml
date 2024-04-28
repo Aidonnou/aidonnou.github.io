@@ -68,4 +68,10 @@ arts:
   title: "Cups"
   artist: "Albert Cid Royo"
   description: "Ref num: #18\nDimensions: Left 8 cm x 9cm HxW Right 7.5 cm x 9.5cm HxW\n"
+
+- image: "https://lh3.googleusercontent.com/drive-viewer/AKGpihZO4YT6xM2RJG3ZoIML8--tAJDMqoX_CEroEvP9F0Gy3qjqwwKrLg326-wy4Rdm-Omv5yN-m8o7XA3Alu22NThYB_ReJm7W3Q=s1600-rw-v1"
+  order: "22"
+  title: "Cups"
+  artist: "Albert Cid Royo"
+  description: "Ref num: #2"
 ---
