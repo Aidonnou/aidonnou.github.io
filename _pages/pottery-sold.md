@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Pottery sold
+title: pottery sold
 permalink: "/pottery-sold/"
 --- 
