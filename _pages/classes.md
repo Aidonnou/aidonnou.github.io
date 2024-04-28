@@ -1,22 +1,24 @@
 ---
 layout: about
-title: Private Pottery Classes
+title: Private Pottery Workshop for Two
 logo: "https://lh4.googleusercontent.com/f-f_4usgF468iZMsplLitwuxB7dFd1wvQqfxx36ogdmSiFgNT7zp_zmGczT5nkNakQ8=w2400"
-permalink: "/private-classes/"
+permalink: "/pottery-workshop/"
 ---
 
 
-Private Pottery Course
+Discover the joy of pottery and create lasting memories with your loved one or a cherished friend. 
+Our Pottery Workshop for Two persons is the perfect gift for those seeking a unique and creative experience. 
 
-In these lessons, you’ll learn the basics of wheel throwing on the potter’s wheel. Classes are open for beginners as well as advanced students.
+What's Included:
 
-•	Lessons from March to June 2023 on Monday and Wednesday evenings from 19:30-21:00.
+👉 Join us for a 1 hour and 45-minute pottery workshop where you'll receive a comprehensive introduction to the art of ceramics in our studio.
 
-•	Price 35 euros per lesson (clay included, excl. energy used for firing)
+👉 Hands-On Pottery Creation: With our guidance, you'll experiment with pottery wheel techniques and receive a thorough introduction to the craft. You'll work on your own pieces, with assistance and supervision provided throughout.
 
-•	The classes will be taught in English.
+👉 We'll handle the glazing process of one of your pieces. Once it's been fired, you can return to collect your unique and completed piece.
 
-For more information, I am available at _Kadewerk_ on Fridays from 12.00 to 17.00 or via email.
+👉 Contact us through the contact option or via Instagram (acr_figulus) for scheduling your workshop.
 
+Price: 100 euros
 
 

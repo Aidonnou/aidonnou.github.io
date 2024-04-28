@@ -1,11 +1,14 @@
 - title: "Pottery"
   href: "/pottery/"
 
+- title: "Pottery SOLD"
+  href: "/pottery-sold/"
+
 - title: "Ceramics"
   href: "/ceramics/"
 
-- title: "Pottery Classes"
-  href: "/private-classes/"
+- title: "Pottery Workshop"
+  href: "/pottery-workshop/"
 
 - title: "about"
   href: "/about/"
