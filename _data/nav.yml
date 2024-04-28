@@ -1,7 +1,8 @@
 - title: "Pottery"
-  href: "/pottery/"
   subcategories:
-    - subtitle: "SOLD"
+    - subtitle: "Available"
+      subhref: "/pottery/"
+    - subtitle: "Sold"
       subhref: "/pottery/sold/"
 
 - title: "Ceramics"
