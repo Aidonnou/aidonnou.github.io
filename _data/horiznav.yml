@@ -5,9 +5,6 @@
     - subtitle: "Sold"
       subhref: "/pottery/sold/"
 
-- title: "Ceramics"
-  href: "/ceramics/"
-
 - title: "Pottery Workshop"
   href: "/pottery-workshop/"
 
