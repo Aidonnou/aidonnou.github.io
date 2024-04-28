@@ -1,7 +1,7 @@
 ---
 name: "pottery"
 arts:
-# Column 1
+  
 - image: "https://lh6.googleusercontent.com/jkVop_8lDxLRRnrpdciKbemXTLHXgUThhKnJrMGi71Udqo_BGqsmDgYMGgIQbbD_78g=w2400"
   order: "1"
   title: "Black plant pot"
@@ -9,7 +9,6 @@ arts:
   description: "Ref num: #1\nDimensions: 20cm x 17cm HxW\nBlack earthenware clay the dimensions are XXcm diameter and XXcm eight. With a drainage hole. 
   %n Price: 50 euros"
 
-# Column 2
 - image: "https://lh3.googleusercontent.com/LPBm1GtAgv8Qxpe6fVaTRqA6AsQq4Kfu097oRDCVSDcy3RCKJveWYEUXO958iWXJ1ro=w2400"
   order: "4"
   title: "Big plant plot"
@@ -22,7 +21,6 @@ arts:
   artist: "Albert Cid Royo"
   description: "Ref num: #6\nDimensions: 23cm x 23cm HxW\n"
 
-# Column 4
 - image: "https://lh5.googleusercontent.com/-iXN5Q-g9OY5wTDUuOUYA7SyrTdIdEiH0VXi-xqLVEaci1t-xGMOz6I4GsJwkhrgk-Q=w2400"
   order: "10"
   title: "Bowl"
